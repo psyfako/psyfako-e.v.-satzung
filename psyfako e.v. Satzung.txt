@@ -6,26 +6,18 @@ Alle Personenbezeichnungen in dieser Satzung, der Vereinsordnung und Finanzordnu
 § 1. Name und Sitz
 
 (1) Der Verein führt den Namen PsyFaKo e.V. und ist im Vereinsregister eingetragen.
-
 (2) Der Sitz des Vereins ist Stendal
 
 § 2. Vereinszweck
 
 Die Studierendenorganisation PsyFaKo dient dem Informationsaustausch zwischen den Fachschaften zu hochschul- und studienrelevanten Themen. Sie dient dem Sammeln und der Diskussion von Informationen und tritt mit Resultaten gegebenenfalls an die Öffentlichkeit. Ziel des PsyFaKo e.V. ist die Vernetzung und die Förderung der Zusammenarbeit aller deutschen Psychologie-Fachschaften. Er dient damit direkt der Studentenhilfe. Konkret findet dieser Zweck seine Umsetzung in Aktivitäten wie der einmal im Semester stattfindenden PsyFaKo (Psychologie-Fachschaften-Konferenz). Darüber hinaus schließt er weitere Aktionen und Treffen mit ein.
 
-
 § 3. Gemeinnützigkeit
 
-(1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des
-Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Der Verein ist selbstlos tätig;
-er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-
+(1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 (2) Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
-
 (3) Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
-
-(4) Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch
-unverhältnismäßig hohe Vergütungen begünstigt werden.
+(4) Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 
 § 4. Geschäftsjahr
@@ -35,174 +27,162 @@ Das Geschäftsjahr beginnt am 1. Januar und endet am 31.Dezember des Jahres.
 
 § 5. Mitgliedschaft
 
-(1.1) Mitglieder des Vereins können alle Mitglieder gewählter Psychologie-Fachschaftsver-tretungen sein. Diese Fachschaftsvertretungen können außerdem einzelne Studierende ihrer Hochschule als PsyFaKo e.V. Mitglied empfehlen. Studierende der genannten Gruppen (Fachschaftsvertreter, Empfohlene) werden mit dem Eingang eines formlosen Antrags beim Vorstand Mitglied des Vereins. Beendet ein Vereinsmitglied sein Amt als Fachschaftsvertreter, bleibt die Mitgliedschaft im PsyFaKo e.V. jedoch erhalten.
+(1) Es werden drei Formen der Mitgliedschaft unterschieden:
+  - die ordentliche Mitgliedschaft (§ 5.2)
+  - die Ehrenmitgliedschaft        (§ 5.3)
+  - die Fördermitgliedschaft       (§ 5.4)
 
-(1.2) Studierende von Hochschulen, an denen keine Fachschaftsvertreter gewählt werden, können ebenfalls Mitglied im PsyFaKo e.V werden, sofern sie für die Belange der Psychologie-Fachschaft an ihrer Hochschule eintreten. Als Psychologie-Fachschaft werden hier jene Studierenden einer Hochschule verstanden, die sich aktiv für die Verbesserung der Studienbedingungen oder in der Verwaltung ihres Faches einsetzen. Konkret reicht als Beleg die Teilnahme an einer vorangegangenen PsyFaKo, die Bestätigung über die offizielle e-mail Adresse ihrer Fachschaft oder die Empfehlung eines anderen Mitglieds der PsyFaKo e.V. . Der Antrag wird vom Vorstand binnen 4 Wochen geprüft. Die Mitgliedschaft beginnt mit positivem Abschluss der Prüfung.
+(2) ordentliche Mitgliedschaft
+(2.1) Ordentliche Mitglieder des Vereins können alle Mitglieder gewählter Psychologie-Fachschaftsvertretungen sein. Diese Fachschaftsvertretungen können außerdem einzelne Studierende ihrer Hochschule als PsyFaKo e.V. Mitglied empfehlen. Studierende der genannten Gruppen (Fachschaftsvertreter, Empfohlene) werden mit dem Eingang eines formlosen Antrags beim Vorstand Mitglied des Vereins. Beendet ein Vereinsmitglied sein Amt als Fachschaftsvertreter, bleibt die Mitgliedschaft im PsyFaKo e.V. jedoch erhalten.
+(2.2) Studierende von Hochschulen, an denen keine Fachschaftsvertreter gewählt werden, können ebenfalls ordentliches Mitglied im PsyFaKo e.V werden, sofern sie für die Belange der Psychologie-Fachschaft an ihrer Hochschule eintreten. Als Psychologie-Fachschaft werden hier jene Studierenden einer Hochschule verstanden, die sich aktiv für die Verbesserung der Studienbedingungen oder in der Verwaltung ihres Faches einsetzen. Konkret reicht als Beleg die Teilnahme an einer vorangegangenen PsyFaKo, die Bestätigung über die offizielle e-mail Adresse ihrer Fachschaft oder die Empfehlung eines anderen Mitglieds des PsyFaKo e.V. . Der Antrag wird vom Vorstand binnen 4 Wochen geprüft. Die Mitgliedschaft beginnt mit positivem Abschluss der Prüfung.
+(2.3)  Alle anderen natürliche Personen können ebenfalls ordentliches Mitglied werden. Über den Antrag entscheidet hier der Vorstand.
+(2.4) Die ordentliche Mitgliedschaft endet:
+  - durch schriftliche Austrittserklärung an den Vorstand (mit Ihrem Zugang)
+  - durch Ausschluss durch den Vorstand oder die Mitgliederversammlung bei satzungswidrigem oder vereinsschädigendem Verhalten
+  - mit dem Tod des Mitglieds
+(2.5) Für ordentliche Mitglieder besteht Anwesenheitspflicht bei der Mitgliederversammlung. Bei unentschuldigtem Fehlen ist die Streichung aus der Mitgliederliste durch den Vorstand möglich.
+(2.6) Die ordentlichen Mitglieder des Vereins gliedern sich in Fachschaftsdelegationen. Als Fachschaftsdelegation wird die Gesamtheit aller dem Verein beigetretenen Mitglieder einer Hochschule verstanden.
 
-(2) Alle anderen natürliche Personen können ebenfalls Mitglied werden. Über den Antrag entscheidet hier der Vorstand.
+(3) Ehrenmitgliedschaft
+Es kann eine Ehrenmitgliedschaft beantragt werden, über deren Annahme die Mitgliederversammlung entscheidet. Ehrenmitglieder haben ein Sprach- aber kein Stimm- oder Wahlrecht. Die Ehrenmitgliedschaft kann von jeder natürlichen Person beantragt werden.
 
-(3) Die Mitgliedschaft endet:
-- durch schriftliche Austrittserklärung an den Vorstand (mit Ihrem Zugang)
-- mit der Exmatrikulation
-- durch Ausschluss durch den Vorstand oder die Mitgliederversammlung bei
-satzungswidrigem oder vereinsschädigendem Verhalten
-- mit dem Tod des Mitglieds
-
-(4) Es besteht Anwesenheitspflicht bei der Mitgliederversammlung. Bei unentschuldigtem
-Fehlen ist die Streichung aus der Mitgliederliste durch den Vorstand möglich.
-
-(5) Es kann eine Ehrenmitgliedschaft beantragt werden, über deren Annahme der Vorstand
-entscheidet. Ehrenmitglieder haben ein Sprach- aber kein Stimm- oder Wahlrecht. Die
-Ehrenmitgliedschaft kann von jedem beantragt werden. Die Ehrenmitgliedschaft endet nicht
-mit der Exmatrikulation.
-
-(6) Die Mitglieder des Vereins gliedern sich in Fachschaftsdelegationen. Als
-Fachschaftsdelegation wird die Gesamtheit aller dem Verein beigetretenen Mitglieder einer
-Hochschule oder Fachhochschule verstanden.
-
+(4) Fördermitgliedschaft
+Fördermitglieder können natürliche Personen werden. Über den schriftlich eingereichten Aufnahmeantrag entscheidet der Vorstand. Fördermitglieder haben ein Sprach- aber kein Stimm- oder Wahlrecht.
 
 § 6. Organe des Vereins
 
 (1) Organe des Vereins sind:
-- die Mitgliederversammlung
-- der Vorstand
-- der Konferenz-Rat
-- die ausrichtende Fachschaftsdelegation
-- das Plenum
+  - die Arbeitsgruppen                     (§  7)
+  - die Mitgliederversammlung              (§  8)
+  - das Plenum                             (§  9)
+  - der Vorstand                           (§ 10)
+  - der Konferenz-Rat                      (§ 11)
+  - die ausrichtende Fachschaftsdelegation (§ 12)
 
 
-§ 7. Der Vorstand
+§ 7 Die Arbeitsgruppen
+
+(1) Die inhaltliche Arbeit des Vereins findet wesentlich in Arbeitsgruppen statt.
+(2) Arbeitsgruppen können jederzeit initiiert werden und müssen den Mitgliedern umgehend bekannt gegeben werden.
+(3) Arbeitsgruppen sind autonom was ihre Arbeitsstrukturen und Arbeitsweise betrifft.
+(4) Möchte eine Arbeitsgruppe im Namen der PsyFaKo außenwirksam tätig sein, muss sie vom Plenum mandatiert werden. Müsste die Arbeitsgruppe unverhältnismäßig lange auf ein Plenum warten kann die Mandatierung durch den Konferenzrat erfolgen. In beiden Fällen berichtet die Arbeitsgruppe dem Plenum.
+
+
+§ 8. Die Mitgliederversammlung
+
+(1) Die Mitgliederversammlung findet zweimal im Jahr im Rahmen der PsyFaKo (Psychologie- Fachschaften-Konferenz) statt.
+(2) Eine Mitgliederversammlung ist vom Vorstand unter Einhaltung einer Einladungsfrist von mindestens 4 Wochen schriftlich oder per E-Mail einzuberufen. In beiden Fällen wird die Einladung an die letzte dem Verein bekannte Anschrift gesendet. Dabei ist die vom Vorstand festgesetzte Tagesordnung mitzuteilen.
+(3) Bei Mitgliedern deren Fachschaften einen eigenen E-Mailverteiler besitzen ist eine E-Mail über diesen Verteiler ausreichend. Mitglieder der PsyFaKo e.V. müssen sich selbstständig darum kümmern ihre E-Mailadresse auf den Verteiler ihrer Fachschaft eintragen zu lassen. Sollte dies aus irgendwelchen Gründen im Einzelfall nicht möglich sein oder eine Fachschaft nicht wünschen, dass ihr Verteiler für die Einberufung verwendet wird, dann ist der Vorstand darüber zu informieren. Die Einladung und Einberufung erfolgt für Mitglieder, die sich in keinem Verteiler befinden, in einer persönlich adressierten Mail oder postalisch.
+(4) Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
+  - Entlastung des Vorstands
+  - Entgegennahme des Geschäfts- und Kassenberichts
+  - Beschlüsse über Satzungsänderung und Vereinsauflösung
+  - Wahl der Kassenprüfer
+  - Wahl der ausrichtenden Fachschaftsdelegation
+  - Wahl des Konferenz-Rates
+(5) Die Mitgliederversammlung entscheidet nach § 13 mit einfacher Mehrheit.
+(6) Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das von einem Vorstandsmitglied und dem Protokollführer zu unterzeichnen ist. Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet, das auch den Protokollführer bestimmt.
+
+
+§ 9 Plenum
+
+Das Plenum ist das höchste beschlussfassende Gremium der PsyFaKo und stellt die abschließende Veranstaltung einer PsyFaKo dar. Das Plenum agiert und trifft Entscheidungen entsprechend der Geschäftsordnung des Plenums der PsyFaKo.
+Aufgaben des Plenums sind insbesondere:
+  - Ernennung bzw. Bestätigung von Arbeitsgruppen
+  - Vorstellung der Arbeit der Arbeitsgruppen
+  - Diskussion und Abstimmung über Anträge der Arbeitsgruppen.
+
+
+§ 10. Der Vorstand
 
 (1) Der Vorstand besteht aus mindestens einer Person. Die genaue Anzahl wird vom
 Konferenz-Rat vor der Wahl festgelegt.
-
 (2) Der Vorstand wird durch den Konferenz-Rat außerhalb der Mitgliederversammlung in einer gesonderten Sitzung gewählt. Jedes Konferenz-Rat Mitglied hat dabei eine Stimme.
-Entspricht die Anzahl der vorgeschlagenen Kandidaten der festgelegten Mitgliedszahl des
-Vorstandes, ist Blockwahl zulässig. Die Amtsdauer endet erst durch die Wahl eines neuen
-Vorstandes. Über die Wahl ist ein Protokoll anzufertigen, das von einem Protokollführer und
-einem Vorstandsmitglied unterschrieben ist.
-
-(3) Der alte Vorstand hat dem neuen Vorstand die erforderlichen Unterlagen zum
-Weiterführen der Vereinsgeschäfte zu übergeben. Hierüber ist ein Übergabeprotokoll
-anzufertigen und mindestens von je einem Mitglied des alten und des neuen Vorstands zu
+Entspricht die Anzahl der vorgeschlagenen Kandidaten der festgelegten Mitgliedszahl des Vorstandes, ist Blockwahl zulässig. Die Amtsdauer endet erst durch die Wahl eines neuen Vorstandes. Über die Wahl ist ein Protokoll anzufertigen, das von einem Protokollführer und einem Vorstandsmitglied unterschrieben ist.
+(3) Der alte Vorstand hat dem neuen Vorstand die erforderlichen Unterlagen zum Weiterführen der Vereinsgeschäfte zu übergeben. Hierüber ist ein Übergabeprotokoll anzufertigen und mindestens von je einem Mitglied des alten und des neuen Vorstands zu
 unterschreiben.
-
-(4) Scheidet ein Vorstandsmitglied aus, kann der Konferenz-Rat ein Ersatzmitglied bis zur
-Neuwahl des Vorstandes bestimmen.
-
+(4) Scheidet ein Vorstandsmitglied aus, kann der Konferenz-Rat ein Ersatzmitglied bis zur Neuwahl des Vorstandes bestimmen.
 (5) Der Vorstand vertritt den Verein gerichtlich und außergerichtlich.
-
-(6) Er führt die laufenden Geschäfte entsprechend der Satzung und den Beschlüssen der
-Mitgliederversammlung.
-
+(6) Er führt die laufenden Geschäfte entsprechend der Satzung und den Beschlüssen der Mitgliederversammlung.
 (7) Jedes Vorstandsmitglied ist allein vertretungsberechtigt.
-
-(8) Sofern die Erlangung der Gemeinnützigkeit und der besonderen Förderungswürdigkeit
-vom Finanzamt formale Änderungen der Satzung verlangt, oder formale Änderungen vom
-Registergericht verlangt werden, wird der Vorstand ermächtigt, entsprechende
-Satzungsänderungen vorzunehmen. Bei nächster Gelegenheit sind diese der
-Mitgliederversammlung zur Information vorzulegen.
-
+(8) Sofern die Erlangung der Gemeinnützigkeit und der besonderen Förderungswürdigkeit vom Finanzamt formale Änderungen der Satzung verlangt, oder formale Änderungen vom Registergericht verlangt werden, wird der Vorstand ermächtigt, entsprechende Satzungsänderungen vorzunehmen. Bei nächster Gelegenheit sind diese der Mitgliederversammlung zur Information vorzulegen.
 (9) Der Vorstand darf gleichzeitig Mitglied des Konferenz-Rates sein.
-
 (10) Ein Vorstandsmitglied führt die Kasse. Die Bestimmung des Mitglieds erfolgt durch Mehrheitswahl innerhalb des Vorstandes. Kann keine Einigung erzielt werden oder findet sich kein Kandidat, dann wird die Kasse von dem Vorstandsmitglied geführt, das schon am längsten Vereinsmitglied ist. Führt dies zu keiner Lösung, da z.B. zwei Personen gleich lange im Verein sind, dann entscheidet der Konferenz-Rat mittels Mehrheitsentschluss. Hat der Vorstand nur ein Mitglied, dann führt dieses die Kasse.
-
-(12) Der Vorstand darf nicht das Amt des Kassenprüfers oder des stellvertretenden
-Kassenprüfers auf sich vereinen.
+(12) Der Vorstand darf nicht das Amt des Kassenprüfers oder des stellvertretenden Kassenprüfers auf sich vereinen.
 
 
-§ 8. Ausrichtende Fachschaftsdelegation
+§ 11. Der Konferenz-Rat
 
-(1) Die ausrichtende Fachschaftsdelegation wird durch die Mitgliederversammlung gewählt. Kandidieren können alle Fachschaftsdelegationen (s. §5(6)).
-
-(2) Die ausrichtende Fachschaftsdelegation organisiert in Absprache mit dem Vorstand und dem Konferenz-Rat die nächste PsyFaKo (Psychologie-Fachschaften-Konferenz) und damit auch die nächste Mitgliederversammlung vor Ort. Dazu gehört die Zurverfügungstellung von Räumlichkeiten sowie mindestens eines Moderators und eines Protokollanten. Die Einberufung sowie Festlegung der Tagesordnung der Mitgliederversammlung findet jedoch durch den Vorstand statt (siehe §10(2)).
-
-(3) Außerdem darf die ausrichtende Fachschaftsdelegation einen zusätzlichen Studierenden in den Konferenz-Rat entsenden. Kann sich die Fachschaft nicht einigen, entfällt die Entsendung.
-
-
-
-§ 9. Der Konferenz-Rat
-
-(1) Der Konferenz-Rat besteht aus mindestens vier (4) Personen und kann durch §8(3)/§9(5) aus maximal sechs (6) Personen bestehen.
-
-
+(1) Der Konferenz-Rat besteht aus mindestens vier (4) Personen und kann durch §11.3 und §12.3 aus maximal sechs (6) Personen bestehen.
 (2) Der Konferenz-Rat wird auf der Mitgliederversammlung gewählt. Die Amtsdauer beträgt 2 Hochschulsemester, wobei zwei Konferenz-Räte im Wintersemester und zwei Konferenz-Räte im Sommersemester gewählt werden. Die Neuwahl eines Teils des Konferenz-Rates für eine abweichende Amtsdauer ist zulässig, sofern diese den Wahlzyklus wiederherstellt.
-
- (3) Die Mitglieder des Konferenz-Rates werden durch die Mitgliederversammlung gewählt, jede Fachschaft besitzt dabei eine Stimmanzahl entsprechend der zu vergebenden Positionen im Konferenz-Rat, die nicht gestapelt werden können. Stehen nur so viele Kandidaten wie zu vergebende Positionen zur Wahl, ist Blockwahl zulässig.
-
+(3) Die Mitglieder des Konferenz-Rates werden durch die Mitgliederversammlung gewählt, jede Fachschaft besitzt dabei eine Stimmanzahl entsprechend der zu vergebenden Positionen im Konferenz-Rat, die nicht gestapelt werden können. Stehen nur so viele Kandidaten wie zu vergebende Positionen zur Wahl, ist Blockwahl zulässig.
 (4) Die Kandidaten mit den meisten Stimmen werden gewählt, die übrigen werden auf ihren Wunsch auf einer Nachrückerliste festgehalten.
-
-(5) Mitglied fünf darf von der nächsten ausrichtenden Fachschaft benannt (s.§8(3)) werden. Mitglied sechs darf von der übernächsten ausrichtenden Fachschaft benannt (s.§8(3)) werden.
-
+(5) Mitglied fünf darf von der nächsten ausrichtenden Fachschaft benannt werden (s. §12.3).
+Mitglied sechs darf von der übernächsten ausrichtenden Fachschaft benannt werden(s. §12.3).
 (6) Scheidet ein Konferenz-Rat Mitglied aus, wird es durch eine Person entsprechend der Nachrückerliste in Rangfolge der Stimmverteilung ersetzt. Wenn keine weitere Person über die Nachrückerliste zur Verfügung steht, kann der Konferenz-Rat durch mehrheitlichen Beschluss einen Kommissarischen Rat ernennen, dessen Amtszeit mit der folgenden Konferenz endet.
-
 (7) Aufgaben des Konferenz-Rates sind in erster Linie
-- Umsetzung der Beschlüsse der Mitgliederversammlung
-- Umsetzung der Beschlüsse des Plenums
-- sowie inhaltliche Unterstützung der ausrichtenden Fachschaftsdelegation
-
-(8) Der Konferenz-Rat kann (entsprechend §7.1-2) einmal pro Semester einen neuen Vorstand wählen. Scheidet ein Vorstandsmitglied aus, kann der Konferenz-Rat (entsprechend §7.1-2) einen Nachfolger wählen. Scheidet das letzte Vorstandsmitglied aus, dann muss der Konferenz-Rat einen Nachfolger benennen.
-
-(9) Sollte auf einer PsyFaKo keine neue ausrichtende Fachschaftsdelegation gewählt werden können, weil es z.B. keine freiwilligen Kandidaten gibt, obliegt dem Konferenz-Rat dieAusrichtung der neuen PsyFaKo mit Mitgliederversammlung.
-
+  - Umsetzung der Beschlüsse der Mitgliederversammlung
+  - Umsetzung der Beschlüsse des Plenums
+  - sowie inhaltliche Unterstützung der ausrichtenden Fachschaftsdelegation
+(8) Der Konferenz-Rat kann entsprechend §10.1-2 einmal pro Semester einen neuen Vorstand wählen. Scheidet ein Vorstandsmitglied aus, kann der Konferenz-Rat entsprechend §10.1-2 einen Nachfolger wählen. Scheidet das letzte Vorstandsmitglied aus, dann muss der Konferenz-Rat einen Nachfolger benennen.
+(9) Sollte auf einer PsyFaKo keine neue ausrichtende Fachschaftsdelegation gewählt werden können, weil es z.B. keine freiwilligen Kandidaten gibt, obliegt dem Konferenz-Rat die Ausrichtung der neuen PsyFaKo mit Mitgliederversammlung.
 (10) Sollte der Konferenz-Rat geschlossen zurücktreten, so übernimmt der Vorstand kommissarisch die Tätigkeiten des Konferenz-Rats bis Neuwahlen stattgefunden haben.“
 
 
+§ 12. Ausrichtende Fachschaftsdelegation
 
-§ 10. Die Mitgliederversammlung
+(1) Die ausrichtende Fachschaftsdelegation wird durch die Mitgliederversammlung gewählt. Kandidieren können alle Fachschaftsdelegationen (s. §5.2.6).
+(2) Die ausrichtende Fachschaftsdelegation organisiert in Absprache mit dem Vorstand und dem Konferenz-Rat die nächste PsyFaKo (Psychologie-Fachschaften-Konferenz) und damit auch die nächste Mitgliederversammlung vor Ort. Dazu gehört die Zurverfügungstellung von Räumlichkeiten sowie mindestens eines Moderators und eines Protokollanten. Die Einberufung sowie Festlegung der Tagesordnung der Mitgliederversammlung findet jedoch durch den Vorstand statt (s. §8.2).
+(3) Außerdem darf die ausrichtende Fachschaftsdelegation einen zusätzlichen Studierenden in den Konferenz-Rat entsenden. Kann sich die Fachschaft nicht einigen, entfällt die Entsendung.
 
-(1) Die Mitgliederversammlung findet zweimal im Jahr im Rahmen der PsyFaKo (Psychologie- Fachschaften-Konferenz) statt.
 
-(2) Eine Mitgliederversammlung ist vom Vorstand unter Einhaltung einer Einladungsfrist von mindestens 4 Wochen schriftlich oder per E-Mail einzuberufen. In beiden Fällen wird die Einladung an die letzte dem Verein bekannte Anschrift gesendet. Dabei ist die vom Vorstand festgesetzte Tagesordnung mitzuteilen.
+§ 13 Abstimmungen und Wahlen
 
-(3) Bei Mitgliedern deren Fachschaften einen eigenen E-Mailverteiler besitzen ist eine E-Mail über diesen Verteiler ausreichend. Mitglieder der PsyFaKo e.V. müssen sich selbstständig darum kümmern ihre E-Mailadresse auf den Verteiler ihrer Fachschaft eintragen zu lassen. Sollte dies aus irgendwelchen Gründen im Einzelfall nicht möglich sein oder eine Fachschaft nicht wünschen, dass ihr Verteiler für die Einberufung verwendet wird, dann ist der Vorstand darüber zu informieren. Die Einladung und Einberufung erfolgt für Mitglieder, die sich in keinem Verteiler befinden, in einer persönlich adressierten Mail oder postalisch.
+(1) Für alle Belange (sofern nicht anderweitig durch die Satzung vermerkt), haben nur die einzelnen Fachschaftsdelegationen (s. §5.2.6) Stimmrecht. Wie die einzelnen Fachschaftsdelegationen die Stimmen ihrer einzelnen Mitglieder zu einer Stimme zusammenführen, bleibt der einzelnen Fachschaftsdelegation überlassen.
+(2) Kann sich eine Fachschaftsdelegation bei Wahlen nicht auf eine Stimmabgabe einigen, wird ihre Stimme als Enthaltung gewertet.
+(3) Ein Mitglied oder eine Fachschaftsdelegation kann ohne Angabe von Gründen eine geheime Wahl beantragen, sofern die Wahl eine Person oder eine Fachschaftsdelegationen betrifft. Eine namentliche Wahl ist hierbei explizit ausgeschlossen.
+(4) Auf Antrag einer Fachschaftsdelegation kann ohne Angabe von Gründen ein namentliches Votum für Wahlen, die nicht §13.3 betreffen, gefordert werden. Der Antragsteller sowie die Ergebnisse unter Aufschlüsselung der Namen müssen im Protokoll wiedergegeben werden. Jede Fachschaftsdelegation hat das Recht, ihre Entscheidung zu begründen. Diese ist beim Konferenz-Rat schriftlich oder elektronisch binnen zwei Wochen nach der jeweiligen Psychologie-Fachschaften-Konferenz einzureichen und wird ebenfalls veröffentlicht.
+(5) Nachträgliche Anträge nach §13.3 geheime Wahl und 13.4 namentliches Votum sind nicht zulässig.
 
-(4) Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
-- Entlastung des Vorstands
-- Entgegennahme des Geschäfts- und Kassenberichts
-- Beschlüsse über Satzungsänderung und Vereinsauflösung
-- Wahl der Kassenprüfer
-- Wahl der ausrichtenden Fachschaftsdelegation
-- Wahl des Konferenz-Rates
-
-„(5.1.) Die Mitgliederversammlung entscheidet nach § 15 mit einfacher Mehrheit.
-
-(6) Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das von einem Vorstandsmitglied und dem Protokollführer zu unterzeichnen ist. Die Mitgliederversammlung wird von einem Vorstandsmitglied geleitet, das auch den Protokollführer bestimmt.
-
-§ 11 Kassenprüfung
+§ 14 Kassenprüfung
 
 Die Mitgliederversammlung wählt einen Kassenprüfer und einen stellvertretenden Kassenprüfer. Die Kassenprüfer prüfen zu jeder ordentlichen Mitgliederversammlung die Kassenlage und Kassenführung. Sie berichten der Mitgliederversammlung und können jederzeit unbeschränkt Einsicht in die Vereinsunterlagen nehmen, die im Zusammenhang mit der Kassenführung stehen. Kassenprüfer dürfen nicht dem Vorstand und dem Konferenz-Rat angehören.
 
-§ 12. Mitgliedsbeitrag
+§ 15. Mitgliedsbeitrag
 
 Ein Mitgliedsbeitrag wird nach der Beitragsordnung des PsyFaKo e.V. erhoben.
 
-§ 13. Auflösung des Vereins
+§ 16. Auflösung des Vereins
 
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die unabhängige Mitgliederorganisation „Die Studienstiftung Deutscher Psychologen e.V.“, die es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
 
-§ 14 Plenum
-
-„Das Plenum ist das höchste beschlussfassende Gremium der PsyFaKo und stellt die  abschließende Veranstaltung einer PsyFaKo dar. Das Plenum agiert und trifft Entscheidungen entsprechend der Geschäftsordnung des Plenums der PsyFaKo.
-Aufgaben des Plenums sind insbesondere:
-- Besprechung der Arbeit der Arbeitsgruppen
-- Diskussion und Abstimmung über Anträge der Arbeitsgruppen.“
-
-
-§ 15 Abstimmungen und Wahlen
-
-(1) Für alle Belange (sofern nicht anderweitig durch die Satzung vermerkt), haben nur die einzelnen Fachschaftsdelegationen (vgl. §5(6)) Stimmrecht. Wie die einzelnen Fachschaftsdeligationen die Stimmen ihrer einzelnen Mitglieder zu einer Stimme zusammenführen, bleibt der einzelnen Fachschaftsdelegation überlassen.
-(2) Kann sich eine Fachschaftsdelegation bei Wahlen nicht auf eine Stimmabgabe einigen, wird ihre Stimme als Enthaltung gewertet.
-(3) Ein Mitglied oder eine Fachschaftsdelegation kann ohne Angabe von Gründen eine geheime Wahl beantragen, sofern die Wahl eine Person oder eine Fachschaftsdelegationen betrifft. Eine namentliche Wahl ist hierbei explizit ausgeschlossen.
-(4) Auf Antrag einer Fachschaftsdelegation kann ohne Angabe von Gründen ein namentliches Votum für Wahlen, die nicht §15(3) betreffen, gefordert werden. Der Antragsteller sowie die Ergebnisse unter Aufschlüsselung der Namen müssen im Protokoll wiedergegeben werden. Jede Fachschaftsdelegation hat das Recht, ihre Entscheidung zu begründen. Diese ist beim Konferenz-Rat schriftlich oder elektronisch binnen zwei Wochen nach der jeweiligen Psychologie-Fachschaften-Konferenz einzureichen und wird ebenfalls veröffentlicht.
- (5) Nachträgliche Anträge nach §15.(3) geheime Wahl und §15.(4) namentliches Votum sind nicht zulässig.
-
-
 
 Schlussbestimmungen
-„Komplette Überarbeitung der bisherigen Satzung; Beschlossen am 19.01.2013 auf der 16. PsyFaKo in Düsseldorf.
-Nachtrag: Überarbeitung von §1, §4, §5, §6, §7, §9, §10, §11, §12 und Hinzufügen von § 14, §15; Beschlossen auf der außerplanmäßigen Mitgliederversammlung am 15.12.2013.“
-
-
-
- 
+2013-01-19 Komplette
+  Komplette Überarbeitung der bisherigen Satzung;
+  Beschlossen am 19.01.2013 auf der 16. PsyFaKo in Düsseldorf.
+  
+2013-12-15 Nachtrag:
+  Überarbeitung von:
+    -Name und Sitz
+    -Geschäftsjahr
+    -Mitgliedschaft
+    -Organe des Vereins
+    -Der Vorstand
+    -Der Konferenz-Rat
+    -Mitgliederversammlung
+    -Kassenprüfung
+    -Mitgliedsbeitrag
+  Hinzufügen von:
+    -Plenum
+    -Abstimmungen und Wahlen
+  Beschlossen auf der außerplanmäßigen Mitgliederversammlung am 15.12.2013 in Stendal.
+  
+2014-11-29 Nachtrag:
+  Sortierung und Nummerierung der Paragraphen nach Inhalt
+  Überarbeitung von:
+    -Mitgliedschaft
+    -Organe des Vereins
+  Hinzufügen von:
+    -Arbeitsgruppe
+  Beschlossen auf der Mitgliederversammlung am 29.11.2014 in Marburg.
