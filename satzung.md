@@ -1,4 +1,5 @@
-# Satzung des PsyFaKo e.V.
+PsyFaKo e.V. - Satzung
+============================================
 
 ## Präambel
 
@@ -207,12 +208,15 @@ Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Z
 
 
 ## Schlussbestimmungen
-### 2013-01-19 Komplette
+
+### 2013-01-19 Komplette Neufassung
+
 Komplette Überarbeitung der bisherigen Satzung;
 
 Beschlossen am 19.01.2013 auf der 16. PsyFaKo in Düsseldorf.
   
 ### 2013-12-15 Nachtrag:
+
 Überarbeitung von:
 
 * Name und Sitz
@@ -231,6 +235,7 @@ Hinzufügen von:
 * Abstimmungen und Wahlen
 
 Beschlossen auf der außerplanmäßigen Mitgliederversammlung am 15.12.2013 in Stendal.
+  
   
 ### 2014-11-29 Nachtrag:
 

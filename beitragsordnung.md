@@ -1,4 +1,5 @@
-# Beitragsordnung des PsyFaKo e.V.
+PsyFaKo e.V. - Beitragsordnung
+============================================
 
 Die Beitragsordnung wurde am Samstag den 31.05.2014 wie folgt von der Mitgliederversammlung beschlossen:
 
